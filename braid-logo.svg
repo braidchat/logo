@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="475.746mm"
+   height="475.746mm"
+   viewBox="0 0 1685.7142 1685.7142"
    id="svg4970"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -32,11 +32,11 @@
          style="stop-color:#2597e2;stop-opacity:1" />
     </linearGradient>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter5065"
-       x="-0.10000000000000001"
-       y="-0.10000000000000001">
+       x="-0.1"
+       y="-0.1">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -111,9 +111,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="22223.353"
-     inkscape:cy="-11544.666"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-330.99075"
+     inkscape:cy="584.67333"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -122,7 +122,11 @@
      inkscape:window-height="756"
      inkscape:window-x="4"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata4975">
     <rdf:RDF>
@@ -138,7 +142,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-21634.344,-11495.987)">
     <g
        style="fill:#ffffff;fill-opacity:1"
        inkscape:export-ydpi="26.690001"
@@ -166,7 +171,7 @@
        height="1685.7142"
        width="1685.7142"
        id="rect4608"
-       style="opacity:1;fill:url(#linearGradient4632);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
+       style="opacity:1;fill:url(#linearGradient4632);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g8695"
        transform="matrix(0.85597027,0,0,0.85597027,7888.376,5584.8675)"
